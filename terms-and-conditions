@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Budget SMS Assistant Terms and Conditions</title>
+
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+h1 {
+    margin-top: 0;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.notice {
+    background: #f1f5ff;
+    padding: 15px;
+    border-radius: 6px;
+    margin: 15px 0;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Terms and Conditions</h1>
+
+<p><strong>Last Updated:</strong> March 10, 2026</p>
+
+<p>
+These Terms and Conditions govern your use of the Budget SMS Assistant (“the Service”). 
+By texting or interacting with the Service, you agree to these Terms.
+</p>
+
+<h2>Description of Service</h2>
+
+<p>
+The Service provides a text-message based budgeting assistant that allows users to set 
+budget categories and track spending by sending SMS commands. The Service responds with 
+budget summaries and remaining balances based on information provided by the user.
+</p>
+
+<h2>User Responsibilities</h2>
+
+<p>
+You are responsible for ensuring that the information you submit is accurate. The Service 
+does not independently verify financial information provided by users.
+</p>
+
+<p>
+The Service is intended for informational and personal budgeting purposes only and does not 
+constitute financial, investment, or professional advice.
+</p>
+
+<h2>SMS Messaging</h2>
+
+<p>
+By initiating contact with the Service via SMS, you consent to receive automated messages 
+related to your budgeting activity.
+</p>
+
+<p>
+Message frequency varies based on your interactions with the Service.
+</p>
+
+<p>
+Standard message and data rates may apply depending on your mobile carrier.
+</p>
+
+<h2>Opt-Out</h2>
+
+<p>You may opt out of SMS communications at any time by replying:</p>
+
+<div class="notice"><strong>STOP</strong></div>
+
+<p>
+After receiving a STOP message, the Service will stop sending messages to your phone number.
+</p>
+
+<h2>Help</h2>
+
+<p>For assistance using the Service, reply:</p>
+
+<div class="notice"><strong>HELP</strong></div>
+
+<h2>Service Availability</h2>
+
+<p>
+The Service is provided on an "as is" and "as available" basis. We do not guarantee that the 
+Service will be uninterrupted, secure, or error-free.
+</p>
+
+<h2>Limitation of Liability</h2>
+
+<p>
+To the fullest extent permitted by law, the Service operator shall not be liable for any 
+damages or losses resulting from the use of the Service, including but not limited to 
+financial decisions made based on information provided by the Service.
+</p>
+
+<h2>Privacy</h2>
+
+<p>
+Your use of the Service is also governed by our Privacy Policy. Please review the Privacy 
+Policy to understand how information is collected and used.
+</p>
+
+<h2>Changes to These Terms</h2>
+
+<p>
+These Terms and Conditions may be updated periodically. Updates will be posted at this 
+same URL and will take effect upon publication.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+If you have any questions about these Terms and Conditions, please contact:
+</p>
+
+<p><strong>mmladenik@gmail.com</strong></p>
+
+</div>
+
+</body>
+
+</html>
